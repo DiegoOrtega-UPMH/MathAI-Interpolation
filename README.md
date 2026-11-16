@@ -22,4 +22,4 @@ This assignment explores how linear and polynomial methods can be used to interp
 ## Resources
 
 - [Class assignment](https://drive.google.com/file/d/1th3dHDhA42Nl1zXZCbqZ_Ma7Qzgf5Xhg/view?usp=classroom_web&authuser=0)
-- [Academic report](EXCLASE-01-CORTE-03-MATEMATICAS-IA-MIA-Interpolacion-GonzalezRomero-OrtegaCarreto.pdf)
+- [Academic report]([EXCLASE-01-CORTE-03-MATEMATICAS-IA-MIA-Interpolacion-GonzalezRomero-OrtegaCarreto.pdf](https://drive.google.com/file/d/1bMNuSbeFVs-uRyw-wWg7s1HGN-z2zuFk/view?usp=classroom_web&authuser=0))
